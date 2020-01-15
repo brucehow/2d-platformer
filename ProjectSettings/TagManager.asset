@@ -14,8 +14,8 @@ TagManager:
   - UI
   - 
   - 
+  - Front
   - Ground
-  - 
   - 
   - Enemy
   - Player
@@ -39,6 +39,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Paint
+    uniqueID: 314017645
+    locked: 0
   - name: Background
     uniqueID: 1423196533
     locked: 0

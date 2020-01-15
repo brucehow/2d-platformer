@@ -20,7 +20,7 @@ public class PlayerController2D : MonoBehaviour {
     public GameObject bulletPrefab;
     public Transform firePoint;
     private float shootDelay;
-    private float shootSpeed = 0.25f;
+    private float shootSpeed = 0.3f;
 
     void Start() {
         animator = GetComponent<Animator>();
